@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mateo.sotoa@udea.edu.co
+	name = mateo soto
